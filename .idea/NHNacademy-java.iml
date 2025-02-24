@@ -2,7 +2,13 @@
 <module type="JAVA_MODULE" version="4">
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
-    <content url="file://$MODULE_DIR$" />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/basic_java/homework/maze" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/basic_java/homework/maze1/src" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/basic_java/homework/poker" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/basic_java/homework/starcraft" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/basic_java/homework/tictactoe" type="java-resource" />
+    </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>

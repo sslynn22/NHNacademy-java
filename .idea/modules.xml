@@ -3,6 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/NHNacademy-java.iml" filepath="$PROJECT_DIR$/.idea/NHNacademy-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/java_module.main.iml" filepath="$PROJECT_DIR$/.idea/modules/java_module.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/java_module.test.iml" filepath="$PROJECT_DIR$/.idea/modules/java_module.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/untitled_main.iml" filepath="$PROJECT_DIR$/.idea/modules/untitled_main.iml" group="untitled" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/untitled_test.iml" filepath="$PROJECT_DIR$/.idea/modules/untitled_test.iml" group="untitled" />
     </modules>
   </component>
 </project>
