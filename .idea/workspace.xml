@@ -4,22 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4db92a0d-632c-459d-af76-28021afb2c6c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/relational database/docs/04.file_and_index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/relational database/docs/config/image28.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/relational database/docs/config/image29.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/relational database/docs/config/image30.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/relational database/docs/config/image31.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/relational database/docs/config/image32.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/relational database/docs/config/image33.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/relational database/docs/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/relational database/docs/img_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/relational database/docs/img_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/relational database/docs/img_3.png" afterDir="false" />
+    <list default="true" id="4db92a0d-632c-459d-af76-28021afb2c6c" name="Changes" comment="docs: 250227 database">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/relational database/docs/03.disk_and_file.md" beforeDir="false" afterPath="$PROJECT_DIR$/relational database/docs/03.disk_and_file.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/relational database/docs/03.docker.md" beforeDir="false" afterPath="$PROJECT_DIR$/relational database/docs/docker.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/relational database/docs/config/image27.png" beforeDir="false" afterPath="$PROJECT_DIR$/relational database/docs/config/image27.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/relational database/docs/04.file_and_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/relational database/docs/04.file_and_index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/relational database/docs/img.png" beforeDir="false" afterPath="$PROJECT_DIR$/relational database/docs/config/image34.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/relational database/docs/img_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/relational database/docs/config/image35.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/relational database/docs/img_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/relational database/docs/config/image36.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/relational database/docs/img_3.png" beforeDir="false" afterPath="$PROJECT_DIR$/relational database/docs/config/image37.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,11 +77,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1740529175190</updated>
-      <workItem from="1740529176320" duration="16595000" />
+      <workItem from="1740529176320" duration="18536000" />
     </task>
+    <task id="LOCAL-00001" summary="docs: 250227 database">
+      <option name="closed" value="true" />
+      <created>1740614818864</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1740614818864</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="docs: 250227 database" />
+    <option name="LAST_COMMIT_MESSAGE" value="docs: 250227 database" />
   </component>
 </project>
