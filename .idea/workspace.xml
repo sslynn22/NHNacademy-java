@@ -5,21 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4db92a0d-632c-459d-af76-28021afb2c6c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/relational database/docs/config/image22.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/relational database/docs/config/image23.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/relational database/docs/config/img.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/http server/java-scurl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_module/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_module/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_module/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_module/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_module/src/main/resources/META-INF/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/relational database/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/relational database/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/relational database/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/relational database/.idea/relational database.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/relational database/.idea/vcs.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/relational database/docs/04.file_and_index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/relational database/docs/config/image28.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/relational database/docs/config/image29.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/relational database/docs/config/image30.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/relational database/docs/config/image31.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/relational database/docs/config/image32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/relational database/docs/config/image33.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/relational database/docs/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/relational database/docs/img_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/relational database/docs/img_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/relational database/docs/img_3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/relational database/docs/03.disk_and_file.md" beforeDir="false" afterPath="$PROJECT_DIR$/relational database/docs/03.disk_and_file.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/relational database/docs/03.docker.md" beforeDir="false" afterPath="$PROJECT_DIR$/relational database/docs/docker.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/relational database/docs/config/image27.png" beforeDir="false" afterPath="$PROJECT_DIR$/relational database/docs/config/image27.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,6 +67,7 @@
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/relational database/docs/config" />
+      <recent name="$PROJECT_DIR$/relational database/docs" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -85,7 +86,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1740529175190</updated>
-      <workItem from="1740529176320" duration="2834000" />
+      <workItem from="1740529176320" duration="16595000" />
     </task>
     <servers />
   </component>
