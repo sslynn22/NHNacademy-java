@@ -1,0 +1,188 @@
+2024-08-01 13:39:10,685 INFO [main] c.e.d.p.a.PriceAop [PriceAop.java:37] ----- 선도형 class com.example.demo.shell.MyCommands.city([]) ----->
+2024-08-01 13:39:10,689 INFO [main] c.e.d.p.a.PriceAop [PriceAop.java:41] <----- 선도형 class com.example.demo.shell.MyCommands.city([]) -----
+2024-08-01 13:39:46,560 INFO [main] c.e.d.p.a.PriceAop [PriceAop.java:37] ----- 선도형 class com.example.demo.shell.MyCommands.city([]) ----->
+2024-08-01 13:39:46,565 INFO [main] c.e.d.p.a.PriceAop [PriceAop.java:41] <----- 선도형 class com.example.demo.shell.MyCommands.city([]) -----
+2024-08-01 13:40:30,178 INFO [main] c.e.d.p.a.PriceAop [PriceAop.java:37] ----- 선도형 class com.example.demo.shell.MyCommands.city([]) ----->
+2024-08-01 13:40:30,185 INFO [main] c.e.d.p.a.PriceAop [PriceAop.java:41] <----- 선도형 class com.example.demo.shell.MyCommands.city([동두천시, 파주시, 광주시, 양주시, 단양군, 서산시, 논산시, 금산군, 정읍시, 나주시, 장흥군, 함평군, 완도군, 진도군, 청송군, 고령군, 예천군, 통영시, 사천시, 거제시, 고성군]) -----
+2024-08-01 13:43:17,163 INFO [main] c.e.d.p.a.PriceAop [PriceAop.java:37] ----- 선도형 class com.example.demo.shell.MyCommands.billTotal([동두천시, 가정용, 10]) ----->
+2024-08-01 13:43:17,168 INFO [main] c.e.d.p.a.PriceAop [PriceAop.java:41] <----- 선도형 class com.example.demo.shell.MyCommands.billTotal(city: 동두천시, sector: 가정용, unit price(won) : 690, bill total(won): 4761000) -----
+2024-08-01 13:44:42,102 INFO [main] c.e.d.p.a.PriceAop [PriceAop.java:37] ----- 선도형 class com.example.demo.shell.MyCommands.billTotal([동두천시, 가정용, 10]) ----->
+2024-08-01 13:44:42,111 INFO [main] c.e.d.p.a.PriceAop [PriceAop.java:41] <----- 선도형 class com.example.demo.shell.MyCommands.billTotal(city: 동두천시, sector: 가정용, unit price(won) : 690, bill total(won): 10) -----
+2024-08-01 13:45:23,426 INFO [main] c.e.d.p.a.PriceAop [PriceAop.java:37] ----- 선도형 class com.example.demo.shell.MyCommands.billTotal([동두천시, 가정용, 10]) ----->
+2024-08-01 13:45:23,431 INFO [main] c.e.d.p.a.PriceAop [PriceAop.java:41] <----- 선도형 class com.example.demo.shell.MyCommands.billTotal(city: 동두천시, sector: 가정용, unit price(won) : 690, bill total(won): 690) -----
+2024-08-01 13:45:53,930 INFO [main] c.e.d.p.a.PriceAop [PriceAop.java:37] ----- 선도형 class com.example.demo.shell.MyCommands.billTotal([동두천시, 가정용, 10]) ----->
+2024-08-01 13:45:53,936 INFO [main] c.e.d.p.a.PriceAop [PriceAop.java:41] <----- 선도형 class com.example.demo.shell.MyCommands.billTotal(city: 동두천시, sector: 가정용, unit price(won) : 690, bill total(won): 4761000) -----
+2024-08-01 13:46:50,221 INFO [main] c.e.d.p.a.PriceAop [PriceAop.java:37] ----- 선도형 class com.example.demo.shell.MyCommands.billTotal([동두천시, 가정용, 10]) ----->
+2024-08-01 13:46:50,227 INFO [main] c.e.d.p.a.PriceAop [PriceAop.java:41] <----- 선도형 class com.example.demo.shell.MyCommands.billTotal(city: 동두천시, sector: 가정용, unit price(won) : 690, bill total(won): 4761000) -----
+2024-08-01 13:48:40,288 INFO [main] c.e.d.p.a.PriceAop [PriceAop.java:37] ----- 선도형 class com.example.demo.shell.MyCommands.billTotal([동두천시, 가정용, 10]) ----->
+2024-08-01 13:48:40,295 INFO [main] c.e.d.p.a.PriceAop [PriceAop.java:41] <----- 선도형 class com.example.demo.shell.MyCommands.billTotal(city: 동두천시, sector: 가정용, unit price(won) : 690, bill total(won): 6900) -----
+2024-08-01 15:31:21,997 INFO [main] c.e.d.p.a.PriceAop [PriceAop.java:37] ----- 선도형 class com.example.demo.shell.MyCommands.city([]) ----->
+2024-08-01 15:31:22,003 INFO [main] c.e.d.p.a.PriceAop [PriceAop.java:41] <----- 선도형 class com.example.demo.shell.MyCommands.city([동두천시, 파주시, 광주시, 양주시, 단양군, 서산시, 논산시, 금산군, 정읍시, 나주시, 장흥군, 함평군, 완도군, 진도군, 청송군, 고령군, 예천군, 통영시, 사천시, 거제시, 고성군]) -----
+2024-08-01 15:31:52,289 INFO [main] c.e.d.p.a.PriceAop [PriceAop.java:37] ----- 선도형 class com.example.demo.shell.MyCommands.city([]) ----->
+2024-08-01 15:31:52,294 INFO [main] c.e.d.p.a.PriceAop [PriceAop.java:41] <----- 선도형 class com.example.demo.shell.MyCommands.city([동두천시, 파주시, 광주시, 양주시, 단양군, 서산시, 논산시, 금산군, 정읍시, 나주시, 장흥군, 함평군, 완도군, 진도군, 청송군, 고령군, 예천군, 통영시, 사천시, 거제시, 고성군]) -----
+2024-08-01 15:32:30,827 INFO [main] c.e.d.p.a.PriceAop [PriceAop.java:37] ----- 선도형 class com.example.demo.shell.MyCommands.city([]) ----->
+2024-08-01 15:32:30,834 INFO [main] c.e.d.p.a.PriceAop [PriceAop.java:41] <----- 선도형 class com.example.demo.shell.MyCommands.city([동두천시, 파주시, 광주시, 양주시, 단양군, 서산시, 논산시, 금산군, 정읍시, 나주시, 장흥군, 함평군, 완도군, 진도군, 청송군, 고령군, 예천군, 통영시, 사천시, 거제시, 고성군]) -----
+2024-08-01 15:32:54,666 INFO [main] c.e.d.p.a.PriceAop [PriceAop.java:37] ----- 선도형 class com.example.demo.shell.MyCommands.sector([동두천시]) ----->
+2024-08-01 15:32:54,672 INFO [main] c.e.d.p.a.PriceAop [PriceAop.java:41] <----- 선도형 class com.example.demo.shell.MyCommands.sector([가정용, 일반용, 일반용(미), 전용공업용, 발전용]) -----
+2024-08-01 15:38:18,741 INFO [main] c.e.d.p.a.PriceAop [PriceAop.java:37] ----- 선도형 class com.example.demo.shell.MyCommands.city([]) ----->
+2024-08-01 15:38:18,747 INFO [main] c.e.d.p.a.PriceAop [PriceAop.java:41] <----- 선도형 class com.example.demo.shell.MyCommands.city([동두천시, 파주시, 광주시, 양주시, 단양군, 서산시, 논산시, 금산군, 정읍시, 나주시, 장흥군, 함평군, 완도군, 진도군, 청송군, 고령군, 예천군, 통영시, 사천시, 거제시, 고성군]) -----
+2024-08-01 15:38:18,750 INFO [main] c.e.d.p.a.PriceAop [PriceAop.java:37] ----- 선도형 class com.example.demo.shell.MyCommands.sector([동두천시]) ----->
+2024-08-01 15:38:18,752 INFO [main] c.e.d.p.a.PriceAop [PriceAop.java:41] <----- 선도형 class com.example.demo.shell.MyCommands.sector([가정용, 일반용, 일반용(미), 전용공업용, 발전용]) -----
+2024-08-01 15:39:02,871 INFO [main] c.e.d.p.a.PriceAop [PriceAop.java:37] ----- 선도형 class com.example.demo.shell.MyCommands.city([]) ----->
+2024-08-01 15:39:02,877 INFO [main] c.e.d.p.a.PriceAop [PriceAop.java:41] <----- 선도형 class com.example.demo.shell.MyCommands.city([동두천시, 파주시, 광주시, 양주시, 단양군, 서산시, 논산시, 금산군, 정읍시, 나주시, 장흥군, 함평군, 완도군, 진도군, 청송군, 고령군, 예천군, 통영시, 사천시, 거제시, 고성군]) -----
+2024-08-01 15:39:02,879 INFO [main] c.e.d.p.a.PriceAop [PriceAop.java:37] ----- 선도형 class com.example.demo.shell.MyCommands.sector([동두천시]) ----->
+2024-08-01 15:39:02,881 INFO [main] c.e.d.p.a.PriceAop [PriceAop.java:41] <----- 선도형 class com.example.demo.shell.MyCommands.sector([가정용, 일반용, 일반용(미), 전용공업용, 발전용]) -----
+2024-08-01 15:39:18,064 INFO [main] c.e.d.p.a.PriceAop [PriceAop.java:37] ----- 선도형 class com.example.demo.shell.MyCommands.city([]) ----->
+2024-08-01 15:39:18,070 INFO [main] c.e.d.p.a.PriceAop [PriceAop.java:41] <----- 선도형 class com.example.demo.shell.MyCommands.city([동두천시, 파주시, 광주시, 양주시, 단양군, 서산시, 논산시, 금산군, 정읍시, 나주시, 장흥군, 함평군, 완도군, 진도군, 청송군, 고령군, 예천군, 통영시, 사천시, 거제시, 고성군]) -----
+2024-08-01 15:39:18,072 INFO [main] c.e.d.p.a.PriceAop [PriceAop.java:37] ----- 선도형 class com.example.demo.shell.MyCommands.sector([동두천시]) ----->
+2024-08-01 15:39:18,074 INFO [main] c.e.d.p.a.PriceAop [PriceAop.java:41] <----- 선도형 class com.example.demo.shell.MyCommands.sector([가정용, 일반용, 일반용(미), 전용공업용, 발전용]) -----
+2024-08-01 15:40:24,220 INFO [main] c.e.d.p.a.PriceAop [PriceAop.java:37] ----- 선도형 class com.example.demo.shell.MyCommands.city([]) ----->
+2024-08-01 15:40:24,226 INFO [main] c.e.d.p.a.PriceAop [PriceAop.java:41] <----- 선도형 class com.example.demo.shell.MyCommands.city([동두천시, 파주시, 광주시, 양주시, 단양군, 서산시, 논산시, 금산군, 정읍시, 나주시, 장흥군, 함평군, 완도군, 진도군, 청송군, 고령군, 예천군, 통영시, 사천시, 거제시, 고성군]) -----
+2024-08-01 15:40:24,228 INFO [main] c.e.d.p.a.PriceAop [PriceAop.java:37] ----- 선도형 class com.example.demo.shell.MyCommands.sector([동두천시]) ----->
+2024-08-01 15:40:24,230 INFO [main] c.e.d.p.a.PriceAop [PriceAop.java:41] <----- 선도형 class com.example.demo.shell.MyCommands.sector([가정용, 일반용, 일반용(미), 전용공업용, 발전용]) -----
+2024-08-01 15:46:32,275 INFO [main] c.e.d.p.a.PriceAop [PriceAop.java:37] ----- 선도형 class com.example.demo.shell.MyCommands.city([]) ----->
+2024-08-01 15:46:32,281 INFO [main] c.e.d.p.a.PriceAop [PriceAop.java:41] <----- 선도형 class com.example.demo.shell.MyCommands.city([동두천시, 파주시, 광주시, 양주시, 단양군, 서산시, 논산시, 금산군, 정읍시, 나주시, 장흥군, 함평군, 완도군, 진도군, 청송군, 고령군, 예천군, 통영시, 사천시, 거제시, 고성군]) -----
+2024-08-01 15:46:32,284 INFO [main] c.e.d.p.a.PriceAop [PriceAop.java:37] ----- 선도형 class com.example.demo.shell.MyCommands.sector([동두천시]) ----->
+2024-08-01 15:46:32,285 INFO [main] c.e.d.p.a.PriceAop [PriceAop.java:41] <----- 선도형 class com.example.demo.shell.MyCommands.sector([가정용, 일반용, 일반용(미), 전용공업용, 발전용]) -----
+2024-08-01 15:50:53,273 INFO [main] c.e.d.p.a.PriceAop [PriceAop.java:37] ----- 선도형 class com.example.demo.shell.MyCommands.city([]) ----->
+2024-08-01 15:50:53,279 INFO [main] c.e.d.p.a.PriceAop [PriceAop.java:41] <----- 선도형 class com.example.demo.shell.MyCommands.city([동두천시, 파주시, 광주시, 양주시, 단양군, 서산시, 논산시, 금산군, 정읍시, 나주시, 장흥군, 함평군, 완도군, 진도군, 청송군, 고령군, 예천군, 통영시, 사천시, 거제시, 고성군]) -----
+2024-08-01 15:50:53,282 INFO [main] c.e.d.p.a.PriceAop [PriceAop.java:37] ----- 선도형 class com.example.demo.shell.MyCommands.sector([동두천시]) ----->
+2024-08-01 15:50:53,284 INFO [main] c.e.d.p.a.PriceAop [PriceAop.java:41] <----- 선도형 class com.example.demo.shell.MyCommands.sector([가정용, 일반용, 일반용(미), 전용공업용, 발전용]) -----
+2024-08-01 15:59:32,496 INFO [main] c.e.d.p.a.PriceAop [PriceAop.java:37] ----- 선도형 class com.example.demo.shell.MyCommands.sector([동두천시]) ----->
+2024-08-01 15:59:32,502 INFO [main] c.e.d.p.a.PriceAop [PriceAop.java:41] <----- 선도형 class com.example.demo.shell.MyCommands.sector([가정용, 일반용, 일반용(미), 전용공업용, 발전용]) -----
+2024-08-01 16:04:14,111 INFO [main] c.e.d.p.a.PriceAop [PriceAop.java:37] ----- 선도형 class com.example.demo.shell.MyCommands.city([]) ----->
+2024-08-01 16:04:14,116 INFO [main] c.e.d.p.a.PriceAop [PriceAop.java:41] <----- 선도형 class com.example.demo.shell.MyCommands.city([동두천시, 파주시, 광주시, 양주시, 단양군, 서산시, 논산시, 금산군, 정읍시, 나주시, 장흥군, 함평군, 완도군, 진도군, 청송군, 고령군, 예천군, 통영시, 사천시, 거제시, 고성군]) -----
+2024-08-01 16:04:14,119 INFO [main] c.e.d.p.a.PriceAop [PriceAop.java:37] ----- 선도형 class com.example.demo.shell.MyCommands.sector([동두천시]) ----->
+2024-08-01 16:04:14,120 INFO [main] c.e.d.p.a.PriceAop [PriceAop.java:41] <----- 선도형 class com.example.demo.shell.MyCommands.sector([가정용, 일반용, 일반용(미), 전용공업용, 발전용]) -----
+2024-08-01 16:04:30,258 INFO [main] c.e.d.p.a.PriceAop [PriceAop.java:37] ----- 선도형 class com.example.demo.shell.MyCommands.city([]) ----->
+2024-08-01 16:04:30,260 INFO [main] c.e.d.p.a.PriceAop [PriceAop.java:41] <----- 선도형 class com.example.demo.shell.MyCommands.city([동두천시, 파주시, 광주시, 양주시, 단양군, 서산시, 논산시, 금산군, 정읍시, 나주시, 장흥군, 함평군, 완도군, 진도군, 청송군, 고령군, 예천군, 통영시, 사천시, 거제시, 고성군]) -----
+2024-08-01 16:04:30,264 INFO [main] c.e.d.p.a.PriceAop [PriceAop.java:37] ----- 선도형 class com.example.demo.shell.MyCommands.sector([동두천시]) ----->
+2024-08-01 16:04:30,264 INFO [main] c.e.d.p.a.PriceAop [PriceAop.java:41] <----- 선도형 class com.example.demo.shell.MyCommands.sector([가정용, 일반용, 일반용(미), 전용공업용, 발전용]) -----
+2024-08-01 16:08:59,468 INFO [main] c.e.d.p.a.PriceAop [PriceAop.java:37] ----- 선도형 class com.example.demo.shell.MyCommands.city([]) ----->
+2024-08-01 16:08:59,474 INFO [main] c.e.d.p.a.PriceAop [PriceAop.java:41] <----- 선도형 class com.example.demo.shell.MyCommands.city([동두천시, 파주시, 광주시, 양주시, 단양군, 서산시, 논산시, 금산군, 정읍시, 나주시, 장흥군, 함평군, 완도군, 진도군, 청송군, 고령군, 예천군, 통영시, 사천시, 거제시, 고성군]) -----
+2024-08-01 16:08:59,476 INFO [main] c.e.d.p.a.PriceAop [PriceAop.java:37] ----- 선도형 class com.example.demo.shell.MyCommands.sector([동두천시]) ----->
+2024-08-01 16:08:59,478 INFO [main] c.e.d.p.a.PriceAop [PriceAop.java:41] <----- 선도형 class com.example.demo.shell.MyCommands.sector([가정용, 일반용, 일반용(미), 전용공업용, 발전용]) -----
+2025-04-06 20:28:08,236 WARN [main] c.e.d.p.a.PriceAop [PriceAop.java:30] There is no current account.
+2025-04-06 20:28:08,275 WARN [main] c.e.d.p.a.PriceAop [PriceAop.java:30] There is no current account.
+2025-04-06 20:28:08,277 WARN [main] c.e.d.p.a.PriceAop [PriceAop.java:30] There is no current account.
+2025-04-06 20:28:08,283 WARN [main] c.e.d.p.a.PriceAop [PriceAop.java:30] There is no current account.
+2025-04-06 20:28:08,288 WARN [main] c.e.d.p.a.PriceAop [PriceAop.java:30] There is no current account.
+2025-04-06 20:32:15,963 WARN [main] c.e.d.p.a.PriceAop [PriceAop.java:30] There is no current account.
+2025-04-06 20:32:16,003 WARN [main] c.e.d.p.a.PriceAop [PriceAop.java:30] There is no current account.
+2025-04-06 20:32:16,005 WARN [main] c.e.d.p.a.PriceAop [PriceAop.java:30] There is no current account.
+2025-04-06 20:32:16,012 WARN [main] c.e.d.p.a.PriceAop [PriceAop.java:30] There is no current account.
+2025-04-06 20:32:16,015 WARN [main] c.e.d.p.a.PriceAop [PriceAop.java:30] There is no current account.
+2025-04-06 20:33:20,063 WARN [main] c.e.d.p.a.PriceAop [PriceAop.java:30] There is no current account.
+2025-04-06 20:33:20,072 WARN [main] c.e.d.p.a.PriceAop [PriceAop.java:30] There is no current account.
+2025-04-06 20:33:20,109 WARN [main] c.e.d.p.a.PriceAop [PriceAop.java:30] There is no current account.
+2025-04-06 20:33:20,111 WARN [main] c.e.d.p.a.PriceAop [PriceAop.java:30] There is no current account.
+2025-04-06 20:33:20,119 WARN [main] c.e.d.p.a.PriceAop [PriceAop.java:30] There is no current account.
+2025-04-06 20:33:29,157 WARN [main] c.e.d.p.a.PriceAop [PriceAop.java:30] There is no current account.
+2025-04-06 20:33:29,190 WARN [main] c.e.d.p.a.PriceAop [PriceAop.java:30] There is no current account.
+2025-04-06 20:33:29,197 WARN [main] c.e.d.p.a.PriceAop [PriceAop.java:30] There is no current account.
+2025-04-06 20:33:29,203 WARN [main] c.e.d.p.a.PriceAop [PriceAop.java:30] There is no current account.
+2025-04-06 20:33:29,205 WARN [main] c.e.d.p.a.PriceAop [PriceAop.java:30] There is no current account.
+2025-04-06 20:39:34,693 WARN [main] c.e.d.p.a.PriceAop [PriceAop.java:34] There is no current account.
+2025-04-06 20:39:34,731 WARN [main] c.e.d.p.a.PriceAop [PriceAop.java:34] There is no current account.
+2025-04-06 20:39:34,733 WARN [main] c.e.d.p.a.PriceAop [PriceAop.java:34] There is no current account.
+2025-04-06 20:39:34,740 WARN [main] c.e.d.p.a.PriceAop [PriceAop.java:34] There is no current account.
+2025-04-06 20:39:34,744 WARN [main] c.e.d.p.a.PriceAop [PriceAop.java:34] There is no current account.
+2025-04-06 20:39:56,226 WARN [main] c.e.d.p.a.PriceAop [PriceAop.java:34] There is no current account.
+2025-04-06 20:39:56,266 WARN [main] c.e.d.p.a.PriceAop [PriceAop.java:34] There is no current account.
+2025-04-06 20:39:56,268 WARN [main] c.e.d.p.a.PriceAop [PriceAop.java:34] There is no current account.
+2025-04-06 20:39:56,274 WARN [main] c.e.d.p.a.PriceAop [PriceAop.java:34] There is no current account.
+2025-04-06 20:39:56,278 WARN [main] c.e.d.p.a.PriceAop [PriceAop.java:34] There is no current account.
+2025-04-06 20:42:06,892 WARN [main] c.e.d.p.a.PriceAop [PriceAop.java:66] There is no current account.
+2025-04-06 20:42:06,931 WARN [main] c.e.d.p.a.PriceAop [PriceAop.java:66] There is no current account.
+2025-04-06 20:42:06,933 WARN [main] c.e.d.p.a.PriceAop [PriceAop.java:66] There is no current account.
+2025-04-06 20:42:06,940 WARN [main] c.e.d.p.a.PriceAop [PriceAop.java:66] There is no current account.
+2025-04-06 20:42:06,943 WARN [main] c.e.d.p.a.PriceAop [PriceAop.java:66] There is no current account.
+2025-04-06 20:43:27,297 WARN [main] c.e.d.p.a.PriceAop [PriceAop.java:34] There is no current account.
+2025-04-06 20:43:27,336 WARN [main] c.e.d.p.a.PriceAop [PriceAop.java:34] There is no current account.
+2025-04-06 20:43:27,338 WARN [main] c.e.d.p.a.PriceAop [PriceAop.java:34] There is no current account.
+2025-04-06 20:43:27,345 WARN [main] c.e.d.p.a.PriceAop [PriceAop.java:34] There is no current account.
+2025-04-06 20:43:27,348 WARN [main] c.e.d.p.a.PriceAop [PriceAop.java:34] There is no current account.
+2025-04-06 21:13:51,021 INFO [main] c.e.d.p.a.PriceAop [PriceAop.java:62] ----- 선도형 class com.example.demo.shell.MyCommands.city([]) ----->
+2025-04-06 21:13:51,031 INFO [main] c.e.d.p.a.PriceAop [PriceAop.java:64] <----- 선도형 class com.example.demo.shell.MyCommands.city([ 동두천시 ,  파주시 ,  광주시 ,  양주시 ,  단양군 ,  서산시 ,  논산시 ,  금산군 ,  정읍시 ,  나주시 ,  장흥군 ,  함평군 ,  완도군 ,  진도군 ,  청송군 ,  고령군 ,  예천군 ,  통영시 ,  사천시 ,  거제시 ,  고성군 ]) -----
+2025-04-06 21:13:58,314 INFO [main] c.e.d.p.a.PriceAop [PriceAop.java:62] ----- 선도형 class com.example.demo.shell.MyCommands.sector([동두천시]) ----->
+2025-04-06 21:13:58,318 INFO [main] c.e.d.p.a.PriceAop [PriceAop.java:64] <----- 선도형 class com.example.demo.shell.MyCommands.sector([]) -----
+2025-04-06 21:14:30,779 INFO [main] c.e.d.p.a.PriceAop [PriceAop.java:62] ----- 선도형 class com.example.demo.shell.MyCommands.city([]) ----->
+2025-04-06 21:14:30,789 INFO [main] c.e.d.p.a.PriceAop [PriceAop.java:64] <----- 선도형 class com.example.demo.shell.MyCommands.city([ 동두천시 ,  파주시 ,  광주시 ,  양주시 ,  단양군 ,  서산시 ,  논산시 ,  금산군 ,  정읍시 ,  나주시 ,  장흥군 ,  함평군 ,  완도군 ,  진도군 ,  청송군 ,  고령군 ,  예천군 ,  통영시 ,  사천시 ,  거제시 ,  고성군 ]) -----
+2025-04-06 21:14:43,123 INFO [main] c.e.d.p.a.PriceAop [PriceAop.java:62] ----- 선도형 class com.example.demo.shell.MyCommands.sector([동두천시]) ----->
+2025-04-06 21:14:43,128 INFO [main] c.e.d.p.a.PriceAop [PriceAop.java:64] <----- 선도형 class com.example.demo.shell.MyCommands.sector([]) -----
+2025-04-06 21:14:51,542 INFO [main] c.e.d.p.a.PriceAop [PriceAop.java:62] ----- 선도형 class com.example.demo.shell.MyCommands.billTotal([동두천시, 가정용, 10]) ----->
+2025-04-06 21:18:17,299 INFO [main] c.e.d.p.a.PriceAop [PriceAop.java:62] ----- 선도형 class com.example.demo.shell.MyCommands.city([]) ----->
+2025-04-06 21:18:17,305 INFO [main] c.e.d.p.a.PriceAop [PriceAop.java:64] <----- 선도형 class com.example.demo.shell.MyCommands.city([ 동두천시 ,  파주시 ,  광주시 ,  양주시 ,  단양군 ,  서산시 ,  논산시 ,  금산군 ,  정읍시 ,  나주시 ,  장흥군 ,  함평군 ,  완도군 ,  진도군 ,  청송군 ,  고령군 ,  예천군 ,  통영시 ,  사천시 ,  거제시 ,  고성군 ]) -----
+2025-04-06 21:18:17,308 INFO [main] c.e.d.p.a.PriceAop [PriceAop.java:62] ----- 선도형 class com.example.demo.shell.MyCommands.sector([동두천시]) ----->
+2025-04-06 21:18:17,310 INFO [main] c.e.d.p.a.PriceAop [PriceAop.java:64] <----- 선도형 class com.example.demo.shell.MyCommands.sector([]) -----
+2025-04-06 21:18:42,252 INFO [main] c.e.d.p.a.PriceAop [PriceAop.java:62] ----- 선도형 class com.example.demo.shell.MyCommands.billTotal([동두천시, 가정용, 10]) ----->
+2025-04-06 21:19:43,657 INFO [main] c.e.d.p.a.PriceAop [PriceAop.java:62] ----- 선도형 class com.example.demo.shell.MyCommands.billTotal([동두천시, 가정용, 10]) ----->
+2025-04-06 21:19:43,668 INFO [main] c.e.d.p.a.PriceAop [PriceAop.java:64] <----- 선도형 class com.example.demo.shell.MyCommands.billTotal(city: 동두천시, sector: 가정용, unit price: 690, bill total(won): 6900) -----
+2025-04-06 21:20:03,141 INFO [main] c.e.d.p.a.PriceAop [PriceAop.java:62] ----- 선도형 class com.example.demo.shell.MyCommands.city([]) ----->
+2025-04-06 21:20:03,146 INFO [main] c.e.d.p.a.PriceAop [PriceAop.java:64] <----- 선도형 class com.example.demo.shell.MyCommands.city([동두천시, 파주시, 광주시, 양주시, 단양군, 서산시, 논산시, 금산군, 정읍시, 나주시, 장흥군, 함평군, 완도군, 진도군, 청송군, 고령군, 예천군, 통영시, 사천시, 거제시, 고성군]) -----
+2025-04-06 21:20:03,149 INFO [main] c.e.d.p.a.PriceAop [PriceAop.java:62] ----- 선도형 class com.example.demo.shell.MyCommands.sector([동두천시]) ----->
+2025-04-06 21:20:03,151 INFO [main] c.e.d.p.a.PriceAop [PriceAop.java:64] <----- 선도형 class com.example.demo.shell.MyCommands.sector([가정용, 일반용, 일반용(미), 전용공업용, 발전용]) -----
+2025-04-06 21:23:57,369 INFO [main] c.e.d.p.a.PriceAop [PriceAop.java:62] ----- 선도형 class com.example.demo.shell.MyCommands.city([]) ----->
+2025-04-06 21:23:57,375 INFO [main] c.e.d.p.a.PriceAop [PriceAop.java:64] <----- 선도형 class com.example.demo.shell.MyCommands.city([동두천시, 파주시, 광주시, 양주시, 단양군, 서산시, 논산시, 금산군, 정읍시, 나주시, 장흥군, 함평군, 완도군, 진도군, 청송군, 고령군, 예천군, 통영시, 사천시, 거제시, 고성군]) -----
+2025-04-06 21:23:57,378 INFO [main] c.e.d.p.a.PriceAop [PriceAop.java:62] ----- 선도형 class com.example.demo.shell.MyCommands.sector([동두천시]) ----->
+2025-04-06 21:23:57,381 INFO [main] c.e.d.p.a.PriceAop [PriceAop.java:64] <----- 선도형 class com.example.demo.shell.MyCommands.sector([가정용, 일반용, 일반용(미), 전용공업용, 발전용]) -----
+2025-04-06 21:26:25,541 INFO [main] c.e.d.p.a.PriceAop [PriceAop.java:62] ----- 선도형 class com.example.demo.shell.MyCommands.city([]) ----->
+2025-04-06 21:26:25,547 INFO [main] c.e.d.p.a.PriceAop [PriceAop.java:64] <----- 선도형 class com.example.demo.shell.MyCommands.city([동두천시, 파주시, 광주시, 양주시, 단양군, 서산시, 논산시, 금산군, 정읍시, 나주시, 장흥군, 함평군, 완도군, 진도군, 청송군, 고령군, 예천군, 통영시, 사천시, 거제시, 고성군]) -----
+2025-04-06 21:26:25,550 INFO [main] c.e.d.p.a.PriceAop [PriceAop.java:62] ----- 선도형 class com.example.demo.shell.MyCommands.sector([동두천시]) ----->
+2025-04-06 21:26:25,553 INFO [main] c.e.d.p.a.PriceAop [PriceAop.java:64] <----- 선도형 class com.example.demo.shell.MyCommands.sector([가정용, 일반용, 일반용(미), 전용공업용, 발전용]) -----
+2025-04-06 21:27:42,359 INFO [main] c.e.d.p.a.PriceAop [PriceAop.java:62] ----- 선도형 class com.example.demo.shell.MyCommands.city([]) ----->
+2025-04-06 21:27:42,364 INFO [main] c.e.d.p.a.PriceAop [PriceAop.java:64] <----- 선도형 class com.example.demo.shell.MyCommands.city([동두천시, 파주시, 광주시, 양주시, 단양군, 서산시, 논산시, 금산군, 정읍시, 나주시, 장흥군, 함평군, 완도군, 진도군, 청송군, 고령군, 예천군, 통영시, 사천시, 거제시, 고성군]) -----
+2025-04-06 21:27:42,367 INFO [main] c.e.d.p.a.PriceAop [PriceAop.java:62] ----- 선도형 class com.example.demo.shell.MyCommands.sector([동두천시]) ----->
+2025-04-06 21:27:42,369 INFO [main] c.e.d.p.a.PriceAop [PriceAop.java:64] <----- 선도형 class com.example.demo.shell.MyCommands.sector([가정용, 일반용, 일반용(미), 전용공업용, 발전용]) -----
+2025-04-06 21:28:21,908 INFO [main] c.e.d.p.a.PriceAop [PriceAop.java:62] ----- 선도형 class com.example.demo.shell.MyCommands.city([]) ----->
+2025-04-06 21:28:21,913 INFO [main] c.e.d.p.a.PriceAop [PriceAop.java:64] <----- 선도형 class com.example.demo.shell.MyCommands.city([동두천시, 파주시, 광주시, 양주시, 단양군, 서산시, 논산시, 금산군, 정읍시, 나주시, 장흥군, 함평군, 완도군, 진도군, 청송군, 고령군, 예천군, 통영시, 사천시, 거제시, 고성군]) -----
+2025-04-06 21:28:21,916 INFO [main] c.e.d.p.a.PriceAop [PriceAop.java:62] ----- 선도형 class com.example.demo.shell.MyCommands.sector([동두천시]) ----->
+2025-04-06 21:28:21,918 INFO [main] c.e.d.p.a.PriceAop [PriceAop.java:64] <----- 선도형 class com.example.demo.shell.MyCommands.sector([가정용, 일반용, 일반용(미), 전용공업용, 발전용]) -----
+2025-04-06 21:28:42,688 INFO [main] c.e.d.p.a.PriceAop [PriceAop.java:62] ----- 선도형 class com.example.demo.shell.MyCommands.city([]) ----->
+2025-04-06 21:28:42,693 INFO [main] c.e.d.p.a.PriceAop [PriceAop.java:64] <----- 선도형 class com.example.demo.shell.MyCommands.city([동두천시, 파주시, 광주시, 양주시, 단양군, 서산시, 논산시, 금산군, 정읍시, 나주시, 장흥군, 함평군, 완도군, 진도군, 청송군, 고령군, 예천군, 통영시, 사천시, 거제시, 고성군]) -----
+2025-04-06 21:28:42,696 INFO [main] c.e.d.p.a.PriceAop [PriceAop.java:62] ----- 선도형 class com.example.demo.shell.MyCommands.sector([동두천시]) ----->
+2025-04-06 21:28:42,698 INFO [main] c.e.d.p.a.PriceAop [PriceAop.java:64] <----- 선도형 class com.example.demo.shell.MyCommands.sector([가정용, 일반용, 일반용(미), 전용공업용, 발전용]) -----
+2025-04-06 21:29:03,248 INFO [main] c.e.d.p.a.PriceAop [PriceAop.java:62] ----- 선도형 class com.example.demo.shell.MyCommands.city([]) ----->
+2025-04-06 21:29:03,253 INFO [main] c.e.d.p.a.PriceAop [PriceAop.java:64] <----- 선도형 class com.example.demo.shell.MyCommands.city([동두천시, 파주시, 광주시, 양주시, 단양군, 서산시, 논산시, 금산군, 정읍시, 나주시, 장흥군, 함평군, 완도군, 진도군, 청송군, 고령군, 예천군, 통영시, 사천시, 거제시, 고성군]) -----
+2025-04-06 21:29:03,255 INFO [main] c.e.d.p.a.PriceAop [PriceAop.java:62] ----- 선도형 class com.example.demo.shell.MyCommands.sector([동두천시]) ----->
+2025-04-06 21:29:03,258 INFO [main] c.e.d.p.a.PriceAop [PriceAop.java:64] <----- 선도형 class com.example.demo.shell.MyCommands.sector([가정용, 일반용, 일반용(미), 전용공업용, 발전용]) -----
+2025-04-06 21:34:29,335 INFO [main] c.e.d.p.a.PriceAop [PriceAop.java:62] ----- 선도형 class com.example.demo.shell.MyCommands.city([]) ----->
+2025-04-06 21:34:29,340 INFO [main] c.e.d.p.a.PriceAop [PriceAop.java:64] <----- 선도형 class com.example.demo.shell.MyCommands.city([동두천시, 파주시, 광주시, 양주시, 단양군, 서산시, 논산시, 금산군, 정읍시, 나주시, 장흥군, 함평군, 완도군, 진도군, 청송군, 고령군, 예천군, 통영시, 사천시, 거제시, 고성군]) -----
+2025-04-06 21:34:29,343 INFO [main] c.e.d.p.a.PriceAop [PriceAop.java:62] ----- 선도형 class com.example.demo.shell.MyCommands.sector([동두천시]) ----->
+2025-04-06 21:34:29,345 INFO [main] c.e.d.p.a.PriceAop [PriceAop.java:64] <----- 선도형 class com.example.demo.shell.MyCommands.sector([가정용, 일반용, 일반용(미), 전용공업용, 발전용]) -----
+2025-04-06 21:35:42,373 INFO [main] c.e.d.p.a.PriceAop [PriceAop.java:62] ----- 선도형 class com.example.demo.shell.MyCommands.city([]) ----->
+2025-04-06 21:35:42,379 INFO [main] c.e.d.p.a.PriceAop [PriceAop.java:64] <----- 선도형 class com.example.demo.shell.MyCommands.city([동두천시, 파주시, 광주시, 양주시, 단양군, 서산시, 논산시, 금산군, 정읍시, 나주시, 장흥군, 함평군, 완도군, 진도군, 청송군, 고령군, 예천군, 통영시, 사천시, 거제시, 고성군]) -----
+2025-04-06 21:35:42,381 INFO [main] c.e.d.p.a.PriceAop [PriceAop.java:62] ----- 선도형 class com.example.demo.shell.MyCommands.sector([동두천시]) ----->
+2025-04-06 21:35:42,384 INFO [main] c.e.d.p.a.PriceAop [PriceAop.java:64] <----- 선도형 class com.example.demo.shell.MyCommands.sector([가정용, 일반용, 일반용(미), 전용공업용, 발전용]) -----
+2025-04-06 21:36:03,244 INFO [main] c.e.d.p.a.PriceAop [PriceAop.java:62] ----- 선도형 class com.example.demo.shell.MyCommands.city([]) ----->
+2025-04-06 21:36:03,250 INFO [main] c.e.d.p.a.PriceAop [PriceAop.java:64] <----- 선도형 class com.example.demo.shell.MyCommands.city([동두천시, 파주시, 광주시, 양주시, 단양군, 서산시, 논산시, 금산군, 정읍시, 나주시, 장흥군, 함평군, 완도군, 진도군, 청송군, 고령군, 예천군, 통영시, 사천시, 거제시, 고성군]) -----
+2025-04-06 21:36:03,253 INFO [main] c.e.d.p.a.PriceAop [PriceAop.java:62] ----- 선도형 class com.example.demo.shell.MyCommands.sector([동두천시]) ----->
+2025-04-06 21:36:03,255 INFO [main] c.e.d.p.a.PriceAop [PriceAop.java:64] <----- 선도형 class com.example.demo.shell.MyCommands.sector([가정용, 일반용, 일반용(미), 전용공업용, 발전용]) -----
+2025-04-06 21:36:20,638 INFO [main] c.e.d.p.a.PriceAop [PriceAop.java:62] ----- 선도형 class com.example.demo.shell.MyCommands.city([]) ----->
+2025-04-06 21:36:20,643 INFO [main] c.e.d.p.a.PriceAop [PriceAop.java:64] <----- 선도형 class com.example.demo.shell.MyCommands.city([동두천시, 파주시, 광주시, 양주시, 단양군, 서산시, 논산시, 금산군, 정읍시, 나주시, 장흥군, 함평군, 완도군, 진도군, 청송군, 고령군, 예천군, 통영시, 사천시, 거제시, 고성군]) -----
+2025-04-06 21:36:20,646 INFO [main] c.e.d.p.a.PriceAop [PriceAop.java:62] ----- 선도형 class com.example.demo.shell.MyCommands.sector([동두천시]) ----->
+2025-04-06 21:36:20,648 INFO [main] c.e.d.p.a.PriceAop [PriceAop.java:64] <----- 선도형 class com.example.demo.shell.MyCommands.sector([가정용, 일반용, 일반용(미), 전용공업용, 발전용]) -----
+2025-04-06 21:36:27,288 INFO [main] c.e.d.p.a.PriceAop [PriceAop.java:62] ----- 선도형 class com.example.demo.shell.MyCommands.city([]) ----->
+2025-04-06 21:36:27,293 INFO [main] c.e.d.p.a.PriceAop [PriceAop.java:64] <----- 선도형 class com.example.demo.shell.MyCommands.city([동두천시, 파주시, 광주시, 양주시, 단양군, 서산시, 논산시, 금산군, 정읍시, 나주시, 장흥군, 함평군, 완도군, 진도군, 청송군, 고령군, 예천군, 통영시, 사천시, 거제시, 고성군]) -----
+2025-04-06 21:36:27,295 INFO [main] c.e.d.p.a.PriceAop [PriceAop.java:62] ----- 선도형 class com.example.demo.shell.MyCommands.sector([동두천시]) ----->
+2025-04-06 21:36:27,298 INFO [main] c.e.d.p.a.PriceAop [PriceAop.java:64] <----- 선도형 class com.example.demo.shell.MyCommands.sector([가정용, 일반용, 일반용(미), 전용공업용, 발전용]) -----
+2025-04-06 21:36:34,715 INFO [main] c.e.d.p.a.PriceAop [PriceAop.java:62] ----- 선도형 class com.example.demo.shell.MyCommands.city([]) ----->
+2025-04-06 21:36:34,720 INFO [main] c.e.d.p.a.PriceAop [PriceAop.java:64] <----- 선도형 class com.example.demo.shell.MyCommands.city([동두천시, 파주시, 광주시, 양주시, 단양군, 서산시, 논산시, 금산군, 정읍시, 나주시, 장흥군, 함평군, 완도군, 진도군, 청송군, 고령군, 예천군, 통영시, 사천시, 거제시, 고성군]) -----
+2025-04-06 21:36:34,723 INFO [main] c.e.d.p.a.PriceAop [PriceAop.java:62] ----- 선도형 class com.example.demo.shell.MyCommands.sector([동두천시]) ----->
+2025-04-06 21:36:34,725 INFO [main] c.e.d.p.a.PriceAop [PriceAop.java:64] <----- 선도형 class com.example.demo.shell.MyCommands.sector([가정용, 일반용, 일반용(미), 전용공업용, 발전용]) -----
+2025-04-06 21:40:33,106 INFO [main] c.e.d.p.a.PriceAop [PriceAop.java:62] ----- 선도형 class com.example.demo.shell.MyCommands.city([]) ----->
+2025-04-06 21:40:33,112 INFO [main] c.e.d.p.a.PriceAop [PriceAop.java:64] <----- 선도형 class com.example.demo.shell.MyCommands.city([동두천시, 파주시, 광주시, 양주시, 단양군, 서산시, 논산시, 금산군, 정읍시, 나주시, 장흥군, 함평군, 완도군, 진도군, 청송군, 고령군, 예천군, 통영시, 사천시, 거제시, 고성군]) -----
+2025-04-06 21:40:33,114 INFO [main] c.e.d.p.a.PriceAop [PriceAop.java:62] ----- 선도형 class com.example.demo.shell.MyCommands.sector([동두천시]) ----->
+2025-04-06 21:40:33,117 INFO [main] c.e.d.p.a.PriceAop [PriceAop.java:64] <----- 선도형 class com.example.demo.shell.MyCommands.sector([가정용, 일반용, 일반용(미), 전용공업용, 발전용]) -----
+2025-04-06 21:41:08,422 INFO [main] c.e.d.p.a.PriceAop [PriceAop.java:62] ----- 선도형 class com.example.demo.shell.MyCommands.city([]) ----->
+2025-04-06 21:41:08,428 INFO [main] c.e.d.p.a.PriceAop [PriceAop.java:64] <----- 선도형 class com.example.demo.shell.MyCommands.city([동두천시, 파주시, 광주시, 양주시, 단양군, 서산시, 논산시, 금산군, 정읍시, 나주시, 장흥군, 함평군, 완도군, 진도군, 청송군, 고령군, 예천군, 통영시, 사천시, 거제시, 고성군]) -----
+2025-04-06 21:41:08,430 INFO [main] c.e.d.p.a.PriceAop [PriceAop.java:62] ----- 선도형 class com.example.demo.shell.MyCommands.sector([동두천시]) ----->
+2025-04-06 21:41:08,433 INFO [main] c.e.d.p.a.PriceAop [PriceAop.java:64] <----- 선도형 class com.example.demo.shell.MyCommands.sector([가정용, 일반용, 일반용(미), 전용공업용, 발전용]) -----
+2025-04-06 21:42:50,435 INFO [main] c.e.d.p.a.PriceAop [PriceAop.java:62] ----- 선도형 class com.example.demo.shell.MyCommands.city([]) ----->
+2025-04-06 21:42:50,440 INFO [main] c.e.d.p.a.PriceAop [PriceAop.java:64] <----- 선도형 class com.example.demo.shell.MyCommands.city([동두천시, 파주시, 광주시, 양주시, 단양군, 서산시, 논산시, 금산군, 정읍시, 나주시, 장흥군, 함평군, 완도군, 진도군, 청송군, 고령군, 예천군, 통영시, 사천시, 거제시, 고성군]) -----
+2025-04-06 21:42:50,443 INFO [main] c.e.d.p.a.PriceAop [PriceAop.java:62] ----- 선도형 class com.example.demo.shell.MyCommands.sector([동두천시]) ----->
+2025-04-06 21:42:50,445 INFO [main] c.e.d.p.a.PriceAop [PriceAop.java:64] <----- 선도형 class com.example.demo.shell.MyCommands.sector([가정용, 일반용, 일반용(미), 전용공업용, 발전용]) -----
+2025-04-06 21:43:13,303 INFO [main] c.e.d.p.a.PriceAop [PriceAop.java:62] ----- 선도형 class com.example.demo.shell.MyCommands.city([]) ----->
+2025-04-06 21:43:13,308 INFO [main] c.e.d.p.a.PriceAop [PriceAop.java:64] <----- 선도형 class com.example.demo.shell.MyCommands.city([동두천시, 파주시, 광주시, 양주시, 단양군, 서산시, 논산시, 금산군, 정읍시, 나주시, 장흥군, 함평군, 완도군, 진도군, 청송군, 고령군, 예천군, 통영시, 사천시, 거제시, 고성군]) -----
+2025-04-06 21:43:13,311 INFO [main] c.e.d.p.a.PriceAop [PriceAop.java:62] ----- 선도형 class com.example.demo.shell.MyCommands.sector([동두천시]) ----->
+2025-04-06 21:43:13,313 INFO [main] c.e.d.p.a.PriceAop [PriceAop.java:64] <----- 선도형 class com.example.demo.shell.MyCommands.sector([가정용, 일반용, 일반용(미), 전용공업용, 발전용]) -----
