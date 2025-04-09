@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title th:text="#{register.title}">학생 등록</title>
+</head>
+<body>
+<form method="post" action="/register">
+    <label th:text="#{login.id}">아이디</label>: <input type="text" name="id" /><br />
+    <label th:text="#{login.pwd}">비밀번호</label>: <input type="password" name="password" /><br />
+    <label th:text="#{name}">이름</label>: <input type="text" name="name" /><br />
+    <label th:text="#{email}">이메일</label>: <input type="email" name="email" /><br />
+    <label th:text="#{score}">성적</label>: <input type="number" name="score" /><br />
+    <label th:text="#{comment}">평가</label>: <textarea name="comment" rows="10" cols="80"></textarea><br />
+    <input type="submit" th:value="#{submit}" />
+    <br />
+    <div th:if="${error}">
+        <p style="color: red;" th:text="${error}"></p>
+    </div>
+</form>
+<br />
+<form method="get" action="">
+    <select name="locale" onchange="this.form.submit()">
+        <option value="en" th:selected="${#locale.language == 'en'}">English</option>
+        <option value="ko" th:selected="${#locale.language == 'ko'}">한국어</option>
+    </select>
+</form>
+</body>
+</html>

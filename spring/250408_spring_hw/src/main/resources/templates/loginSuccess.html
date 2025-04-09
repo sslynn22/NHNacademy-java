@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title th:text="#{login.success}">로그인 성공</title>
+</head>
+<body>
+<h2 th:text="#{login.success.message}">로그인에 성공했습니다!</h2>
+<br />
+<form method="get" action="">
+    <select name="locale" onchange="this.form.submit()">
+        <option value="en" th:selected="${#locale.language == 'en'}">English</option>
+        <option value="ko" th:selected="${#locale.language == 'ko'}">한국어</option>
+    </select>
+</form>
+</body>
+</html>
