@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>로그인</title>
+</head>
+<body>
+<form method="post" action="/login">
+    <label th:text="#{login.id}">ID</label>: <input type="text" name="id" required /><br/>
+    <label th:text="#{login.pwd}">PWD</label>: <input type="password" name="pwd" required /><br/>
+    <input type="submit" th:value="#{login.submit}" />
+</form>
+
+<div th:if="${error}">
+    <p style="color: red;" th:text="${error}">login fail</p>
+</div>
+
+<br />
+<form method="get" action="">
+    <select name="locale" onchange="this.form.submit()">
+        <option value="en" th:selected="${#locale.language == 'en'}">English</option>
+        <option value="ko" th:selected="${#locale.language == 'ko'}">한국어</option>
+    </select>
+</form>
+</body>
+</html>
